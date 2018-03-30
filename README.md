@@ -1,2 +1,3 @@
 # hand
 gesture recognition
+Optimizing ........
